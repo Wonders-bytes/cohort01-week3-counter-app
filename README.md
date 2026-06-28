@@ -22,7 +22,7 @@ While building this project, I learned how to:
 live demo : https://vercel.com/wonders-hq/cohort01-week3-counter-app/EtyuVLN3DQGFWPXVzKGfVb1iswgs
 
 Author 
-Elijah Emmanuel (WondersHQ)
+Elijah (WondersHQ)
 
 
 
