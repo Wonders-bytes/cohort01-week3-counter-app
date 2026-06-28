@@ -19,10 +19,9 @@ While building this project, I learned how to:
 * Update state in React
 * Apply conditional styling with CSS
 
-## Live Demo
+live demo : https://vercel.com/wonders-hq/cohort01-week3-counter-app/EtyuVLN3DQGFWPXVzKGfVb1iswgs
 
-## Author
-
+Author 
 Elijah Emmanuel (WondersHQ)
 
 
