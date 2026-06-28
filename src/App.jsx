@@ -41,7 +41,8 @@ function App() {
         </div>
 
         <p className="author">
-          Built by <strong>Elijah Attai</strong>
+            Made with ❤️ by <strong>Elijah (WondersHQ)</strong>
+            
         </p>
 
       </div>
